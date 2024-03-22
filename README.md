@@ -7,7 +7,7 @@ This project takes the encrypted data packets from my server and DEcrypts them i
 
 ## How it works
 `
-Youtube.com --> PacketEncryp-TOR.js --> Example.org/?decrypt=[encrypted packet] (<-- this website is actually PacketDecryp-TOR.js) --> Gets required files to load the website properly and --> Then returns them to YOU!
+Youtube.com --> PacketEncryp-TOR.js --> Example.org/?decrypt=[encrypted packet] (<-- the real domain is ```[Reaplace_this_with_the_real_domain]```) --> Gets required files to load the website properly even if it has javascript that is linked like this ./example.js --> Then the server returns the decrypted information back to YOU!
 `
 
 [![Deploy to Cyclic](https://deploy.cyclic.app/button.svg)](https://deploy.cyclic.app/)
