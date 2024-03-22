@@ -1,12 +1,12 @@
 {
-  "name": "starter-micro-api",
+  "name": "PacketDecryp-TOR.js",
   "version": "1.0.0",
-  "description": "Cyclic.sh micro api starter",
+  "description": "The decryptor for PacketEncryp-TOR.js",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "me",
   "license": "ISC",
   "dependencies": {
   }
